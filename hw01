@@ -1,0 +1,151 @@
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<h1 style="text-align:center">信息专业大二下学期课程表</h1>
+
+<head>
+    <style>
+        table {
+            width: calc(100vmin-100px);
+            height: calc(100vmin-100px);
+        }
+
+        td {
+            text-align: center;
+            font-size: 8px;
+            background-color: rgb(205, 255, 216);
+        }
+
+        td:hover {
+            position: relative;
+            top: 5px;
+            left: 5px;
+            box-shadow: 8px 13px 18px 0px;
+        }
+
+        .diag-main {
+            font-weight: 900;
+        }
+
+        .diag-back {
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <table border=6 frame=void align=center width=650px height=100px cellspacing=0px cellpadding=10px>
+        <tr height=50px align=center>
+            <th width=110px></th>
+            <th>
+                <font color=orange>星期一</font>
+            </th>
+            <th>
+                <font color=orange>星期二</font>
+            </th>
+            <th>
+                <font color=orange>星期三</font>
+            </th>
+            <th>
+                <font color=orange>星期四</font>
+            </th>
+            <th>
+                <font color=orange>星期五</font>
+            </th>
+        </tr>
+        <tr height=40px align=center>
+            <td></td>
+            <td colspan=5 color=red>
+                <font color="purple"><b>上午</b></font>
+            </td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>一</b></font>
+            </td>
+            <td>Web应用开发技术（西区第一公共教学楼C411）</td>
+            <td>西方文化简史（西区第一公共教学楼C311）</td>
+            <td>管理信息系统（西区第一公共教学楼C105）</td>
+            <td>运营管理（西区第一公共教学楼B405）</td>
+            <td></td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>二</b></font>
+            </td>
+            <td>Web应用开发技术（西区第一公共教学楼C411）</td>
+            <td>西方文化简史（西区第一公共教学楼C311）</td>
+            <td>管理信息系统（西区第一公共教学楼C105）</td>
+            <td>运营管理（西区第一公共教学楼B405）</td>
+            <td></td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>三</b></font>
+            </td>
+            <td>毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼A120）</td>
+            <td>管理科学基础（西区第一公共教学楼C411）</td>
+            <td>毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼A120）</td>
+            <td>管理科学基础（西区第一公共教学楼C411）</td>
+            <td>运营管理（西区第一公共教学楼B405）</td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>四</b></font>
+            </td>
+            <td>毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼A120）</td>
+            <td>管理科学基础（西区第一公共教学楼C411）</td>
+            <td>毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼C411）</td>
+            <td>管理科学基础（西区第一公共教学楼C411）</td>
+            <td>运营管理（西区第一公共教学楼B405）</td>
+        </tr>
+        <tr height=40px align=center>
+            <td></td>
+            <td colspan=5>
+                <font color="purple"><b>下午</b></font>
+            </td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>五</b></font>
+            </td>
+            <td>管理信息系统（西区第一公共教学楼C105）</td>
+            <td>形势与政策（西区第一公共教学楼C123）</td>
+            <td>会计学（西区第一公共教学楼B101）</td>
+            <td></td>
+            <td>毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼C411）</td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>六</b></font>
+            </td>
+            <td>管理信息系统（西区第一公共教学楼C105）</td>
+            <td>形势与政策（西区第一公共教学楼C123）</td>
+            <td>会计学（西区第一公共教学楼B101）</td>
+            <td></td>
+            <td>毛泽东思想与中国特色社会主义理论体系概论（西区第一公共教学楼C411）</td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>七</b></font>
+            </td>
+            <td>电子商务（西区第一公共教学楼B303）</td>
+            <td>数据库管理及应用（西区第一公共教学楼C109）</td>
+            <td></td>
+            <td>会计学（西区第一公共教学楼B101）</td>
+            <td></td>
+        </tr>
+        <tr height=40px align=center>
+            <td>
+                <font color=red><b>八</b></font>
+            </td>
+            <td>电子商务（西区第一公共教学楼B303）</td>
+            <td>数据库管理及应用（西区第一公共教学楼C109）</td>
+            <td></td>
+            <td>会计学（西区第一公共教学楼B101）</td>
+            <td></td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
